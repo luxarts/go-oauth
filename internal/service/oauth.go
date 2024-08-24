@@ -3,9 +3,9 @@ package service
 import (
 	"crypto/sha256"
 	"encoding/base64"
-	"go-oauth/internal/defines"
-	"go-oauth/internal/domain"
-	"go-oauth/internal/repository"
+	"github.com/luxarts/go-oauth/internal/defines"
+	"github.com/luxarts/go-oauth/internal/domain"
+	"github.com/luxarts/go-oauth/internal/repository"
 	"math/rand"
 	"net/url"
 	"os"

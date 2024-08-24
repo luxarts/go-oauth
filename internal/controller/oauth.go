@@ -2,7 +2,7 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
-	"go-oauth/internal/service"
+	"github.com/luxarts/go-oauth/internal/service"
 	"net/http"
 )
 

@@ -1,4 +1,4 @@
-module go-oauth
+module github.com/luxarts/go-oauth
 
 go 1.23
 

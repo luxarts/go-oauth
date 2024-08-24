@@ -7,7 +7,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"github.com/go-resty/resty/v2"
-	"go-oauth/internal/defines"
+	"github.com/luxarts/go-oauth/internal/defines"
 	"log"
 	"math/big"
 	"os"

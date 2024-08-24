@@ -3,10 +3,10 @@ package router
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/go-resty/resty/v2"
-	"go-oauth/internal/controller"
-	"go-oauth/internal/defines"
-	"go-oauth/internal/repository"
-	"go-oauth/internal/service"
+	"github.com/luxarts/go-oauth/internal/controller"
+	"github.com/luxarts/go-oauth/internal/defines"
+	"github.com/luxarts/go-oauth/internal/repository"
+	"github.com/luxarts/go-oauth/internal/service"
 )
 
 func New() *gin.Engine {

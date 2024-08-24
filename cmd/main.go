@@ -2,7 +2,7 @@ package main
 
 import (
 	_ "github.com/joho/godotenv/autoload"
-	"go-oauth/internal/router"
+	"github.com/luxarts/go-oauth/internal/router"
 	"log"
 )
 
